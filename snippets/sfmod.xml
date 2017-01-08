@@ -11,5 +11,5 @@
   <!-- Kernel source for bullhead -->
   <project path="kernel/lge/bullhead" name="SFMod/android_kernel_lge_bullhead" groups="device,bullhead" revision="ElementalX-4.00" />
   <!-- Masquerade -->
-  <project path="packages/apps/masquerade" name="SFMod/android_packages_apps_masquerade" revision="master" />
+  <project path="packages/apps/masquerade" name="SFMod/android_packages_apps_masquerade" revision="n" />
 </manifest>

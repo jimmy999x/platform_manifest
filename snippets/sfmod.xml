@@ -12,4 +12,6 @@
   <project path="kernel/lge/bullhead" name="SFMod/android_kernel_lge_bullhead" groups="device,bullhead" revision="ElementalX-4.00" />
   <!-- Masquerade -->
   <project path="packages/apps/masquerade" name="SFMod/android_packages_apps_masquerade" revision="n" />
+  <!-- BusyBox -->
+  <project path="external/busybox" name="SFMod/android_external_busybox" revision="android-7.1" />
 </manifest>

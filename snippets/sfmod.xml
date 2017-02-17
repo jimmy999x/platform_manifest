@@ -8,7 +8,7 @@
   <project path="device/lge/bullhead" name="SFMod/android_device_lge_bullhead" groups="device,bullhead" />
   <project path="packages/apps/CMUpdater" name="SFMod/android_packages_apps_CMUpdater" />
   <!-- Proprietary stuff for bullhead -->
-  <project path="vendor/lge" name="SFMod/proprietary_vendor_lge" revision="master" />
+  <project path="vendor/lge" name="SFMod/proprietary_vendor_lge" revision="cm-14.1" />
   <!-- Kernel source for bullhead -->
   <project path="kernel/lge/bullhead" name="SFMod/android_kernel_lge_bullhead" groups="device,bullhead" revision="ElementalX-4.00" />
   <!-- Masquerade -->

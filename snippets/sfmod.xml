@@ -12,7 +12,7 @@
   <!-- Kernel source for bullhead -->
   <project path="kernel/lge/bullhead" name="SFMod/android_kernel_lge_bullhead" groups="device,bullhead" revision="ElementalX-4.00" />
   <!-- BusyBox -->
-  <project path="external/busybox" name="SFMod/android_external_busybox" revision="android-7.1" />
+  <project path="external/busybox" name="LineageOS/android_external_busybox" revision="cm-14.1" />
   <!-- TWRP -->
   <project path="bootable/recovery" name="SFMod/android_bootable_recovery" groups="pdk" revision="cm-14.1" />
   <!-- MultiROM -->

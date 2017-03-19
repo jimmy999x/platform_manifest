@@ -15,7 +15,7 @@
   <!-- BusyBox -->
   <project path="external/busybox" name="SFMod/android_external_busybox" revision="cm-14.1" />
   <!-- TWRP -->
-  <project path="bootable/recovery" name="SFMod/android_bootable_recovery" groups="pdk" revision="cm-14.1" />
+  <project path="bootable/recovery" name="LineageOS/android_bootable_recovery" groups="pdk" revision="cm-14.1" />
   <!-- MultiROM -->
   <project path="system/extras/multirom" name="SFMod/android_system_extras_multirom" groups="pdk,bullhead" />
   <project path="system/extras/libbootimg" name="SFMod/android_system_extras_libbootimg" groups="pdk" revision="master" />
